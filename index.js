@@ -1,4 +1,4 @@
-const function divide()
+// const function divide()
 
 function divide() {
     return 2000 / 100;
